@@ -1,0 +1,265 @@
+{
+  "repo": {
+    "timestamp": 1724602205000,
+    "version": 20002,
+    "name": "lukas apps",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/PaulMayero/reimagined-octo-couscous/master/fdroid/repo",
+    "description": "apps that luka uses",
+    "mirrors": [
+      "https://raw.githubusercontent.com/PaulMayero/reimagined-octo-couscous/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "suggestedVersionCode": "1016050",
+      "license": "Unknown",
+      "name": "Butter",
+      "added": 1724601905000,
+      "packageName": "info.guardianproject.butter.fdroid",
+      "lastUpdated": 1724601916000
+    },
+    {
+      "suggestedVersionCode": "1017050",
+      "license": "Unknown",
+      "name": "F-Droid",
+      "added": 1724601973000,
+      "packageName": "org.fdroid.fdroid",
+      "lastUpdated": 1724601981000
+    },
+    {
+      "suggestedVersionCode": "1724601886",
+      "license": "Unknown",
+      "name": "katrin-sadolin-complete-vocal-technique",
+      "added": 1724601886000,
+      "packageName": "katrin-sadolin-complete-vocal-technique",
+      "lastUpdated": 1724602205000
+    }
+  ],
+  "packages": {
+    "info.guardianproject.butter.fdroid": [
+      {
+        "added": 1724601916000,
+        "apkName": "Butter-1.16.apk",
+        "hash": "3c8b57e75f92889cee7e91c6a830122b7f4e447a60da7bc9e62ea633f8b26e6a",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "info.guardianproject.butter.fdroid",
+        "sig": "d70ac6a02b53ebdd1354ea7af7b9ceee",
+        "signer": "f006a20481c71a690de02e385ab0c9fa4ac1245240f68102682703ba0656867a",
+        "size": 10256985,
+        "targetSdkVersion": 25,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.USB_PERMISSION",
+            22
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 1016050,
+        "versionName": "butter_1.16"
+      }
+    ],
+    "katrin-sadolin-complete-vocal-technique": [
+      {
+        "added": 1724602205000,
+        "apkName": "katrin-sadolin-complete-vocal-technique.pdf",
+        "hash": "d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d",
+        "hashType": "sha256",
+        "packageName": "katrin-sadolin-complete-vocal-technique",
+        "size": 3356240,
+        "versionCode": 1724601886,
+        "versionName": "2024-08-25"
+      }
+    ],
+    "org.fdroid.fdroid": [
+      {
+        "added": 1724601981000,
+        "apkName": "F-Droid1.apk",
+        "hash": "dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "packageName": "org.fdroid.fdroid",
+        "sig": "9063aaadfff9cfd811a9c72fb5012f28",
+        "signer": "43238d512c1e5eb2d6569f4a3afbf5523418b82e0a3ed1552770abb9a9c9ccab",
+        "size": 10646430,
+        "targetSdkVersion": 28,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.CHANGE_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            32
+          ],
+          [
+            "android.permission.BLUETOOTH_ADMIN",
+            30
+          ],
+          [
+            "android.permission.BLUETOOTH_CONNECT",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            28
+          ],
+          [
+            "android.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.USB_PERMISSION",
+            22
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.NFC",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "uses-permission-sdk-23": [
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 1017050,
+        "versionName": "1.17.0"
+      }
+    ]
+  }
+}

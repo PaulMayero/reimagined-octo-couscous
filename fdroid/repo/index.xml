@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="icon.png" name="lukas apps" pubkey="30820505308202eda003020102020458e3fa45300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f72673020170d3234303832353136303431335a180f32303532303131313136303431335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100895f765f239d3f76c5fe9c6f6936ca71a57affa0b956798e5db368070dcbcdf943ebfee5012c85154c8a508bdcc9ceed3d1514767bf5b73ed2662768f7acb00b2c7636c53a8fce992dbd1560cf5cfd47e3488cffda3d24cb28f5db562e912d361b7c0e9c2111b06de36307a4981de2e7ca81264a5f93d4d45101e00e72dad8d1cac3f8c53c9d024d004ef36d8670ab96d156b2509fa3e3825b02eef7bfe8437c148bab49eddf73e891848face9c54327203374f91461d6ce667ca481012fd074037b71a13b59556a2a97be22f1d8f51cec4ff852f45749b552d15311fa4cdf0aa1685f5e1737f484ccd9f89eb727a838eb51e138efd9353805ead2774bd1b7f664328f17b4feb143e68b73a687949ef027e7e08fd13c3ad059656b7c8aa95284556ffd33f448329a7c71d812d9c3fa23107ac8e5d0f8bc9fb7f0a7826a39a81b5ec8c178e8d75013458a1a13d69126b4d2fb0c76fa591d427be48c738c68de092543f60920108ae916ce1ff86c79b9333e86e28959e34ba0b38d5f1e4fc53847060be476c0bd42d3ac7b83a943a20d55bdf73648e12a350009cb9b410e150d271802ce72247eb2f85671d0aa444600c3a8bbb21541950be0e07b0e2972f134199e2d5950a9a87101c1a658ccc9a68c0c746fd8bd57d00921b2d304b31ad45cfdeda1ebad27521fa26a9460b059cfd4ccd5bb6a0dd482fe383a75c3b33fad31750203010001a321301f301d0603551d0e04160414b66e97a946178fe8a80aed04947751bb084a49bd300d06092a864886f70d01010b05000382020100783c641c2e0798379631ba4e90ff1d1527fb73b208c63c1f272543ca68a165bc8345cf6acb9dbd1dd625191d3bdc0d7d7638419f8ac5b3a3b882936ce4384e15de1247bc17271a34aef1d6894215f223acd5249538594c22a222fc855b7dc97d42aa64083c85400663cf65fd50e50d44e5af39f21c56e94a6cd024427132e0a48dade590abbf34f51c78b968cc74b3e73bb53d2012c9a02dd86334e46fddcc543dadcd61089b5398b19f6721f9086665316d8d0c46c1aa8a9cbc57a9370f7f6a1228fd35b3c8b98d76a452457c186bbc79614fe02823062a80a78fe6e5d449d1b9196fb646bd6866b3061e2379b6d866ef53c8dae461d243e4bbb8992e75cb448f2a6b1a091eacf6b63e9588486273990eb99cbfea4b663cad6c105fd1e5509d4cebe69ee3c71c42a9f8892e3376391f9fb051898fdd296bbbde659ca56ea7dd0f5a943ea56909dc79fc2eda57399f1202614f450ed509e15e16becf5a1aec5ef5e7923738bbb3c0419807e116de9a18408b1f37d26b54ed1c13615235483a2c63a7fd618522065037b53d270f66f4e7250aff875a6fbaa90e4e35657bf7fe94e955da3f08515900f6fb0bcbebf4ec83574db038db4992f9a3dc4e95343f0984ed168ea82e577ed17f269395af32c6302103b4d60b79a72204caaf28839a34639550b923fa3a6fb25abae1b9f99ca2c06363fb7b351e08e7cb65a6857a287ee8" timestamp="1724602205" url="https://raw.githubusercontent.com/PaulMayero/reimagined-octo-couscous/master/fdroid/repo" version="20002">
+		<description>apps that luka uses</description>
+		<mirror>https://raw.githubusercontent.com/PaulMayero/reimagined-octo-couscous/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="info.guardianproject.butter.fdroid">
+		<id>info.guardianproject.butter.fdroid</id>
+		<added>2024-08-25</added>
+		<lastupdated>2024-08-25</lastupdated>
+		<name>Butter</name>
+		<summary></summary>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1016050</marketvercode>
+		<package>
+			<version>butter_1.16</version>
+			<versioncode>1016050</versioncode>
+			<apkname>Butter-1.16.apk</apkname>
+			<hash type="sha256">3c8b57e75f92889cee7e91c6a830122b7f4e447a60da7bc9e62ea633f8b26e6a</hash>
+			<size>10256985</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>25</targetSdkVersion>
+			<added>2024-08-25</added>
+			<sig>d70ac6a02b53ebdd1354ea7af7b9ceee</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,NFC,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,USB_PERMISSION,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS</permissions>
+			<uses-permission maxSdkVersion="22" name="android.permission.USB_PERMISSION"/>
+		</package>
+	</application>
+	<application id="org.fdroid.fdroid">
+		<id>org.fdroid.fdroid</id>
+		<added>2024-08-25</added>
+		<lastupdated>2024-08-25</lastupdated>
+		<name>F-Droid</name>
+		<summary></summary>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1017050</marketvercode>
+		<package>
+			<version>1.17.0</version>
+			<versioncode>1017050</versioncode>
+			<apkname>F-Droid1.apk</apkname>
+			<hash type="sha256">dc3bb88f6419ee7dde7d1547a41569aa03282fe00e0dc43ce035efd7c9d27d75</hash>
+			<size>10646430</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>28</targetSdkVersion>
+			<added>2024-08-25</added>
+			<sig>9063aaadfff9cfd811a9c72fb5012f28</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BLUETOOTH,BLUETOOTH_ADMIN,BLUETOOTH_CONNECT,CHANGE_NETWORK_STATE,CHANGE_WIFI_MULTICAST_STATE,CHANGE_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,NFC,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USB_PERMISSION,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,WRITE_SETTINGS,org.fdroid.fdroid.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<uses-permission maxSdkVersion="32" name="android.permission.BLUETOOTH"/>
+			<uses-permission maxSdkVersion="30" name="android.permission.BLUETOOTH_ADMIN"/>
+			<uses-permission maxSdkVersion="22" name="android.permission.USB_PERMISSION"/>
+			<uses-permission maxSdkVersion="28" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+		</package>
+	</application>
+	<application id="katrin-sadolin-complete-vocal-technique">
+		<id>katrin-sadolin-complete-vocal-technique</id>
+		<added>2024-08-25</added>
+		<lastupdated>2024-08-25</lastupdated>
+		<name>katrin-sadolin-complete-vocal-technique</name>
+		<summary></summary>
+		<desc>No description available</desc>
+		<license>Unknown</license>
+		<web></web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>1724601886</marketvercode>
+		<package>
+			<version>2024-08-25</version>
+			<versioncode>1724601886</versioncode>
+			<apkname>katrin-sadolin-complete-vocal-technique.pdf</apkname>
+			<hash type="sha256">d39c224741616ce6d4652db9699898c5462c7bd56dd07f577dbaaf9e0d58210d</hash>
+			<size>3356240</size>
+			<added>2024-08-25</added>
+		</package>
+	</application>
+</fdroid>
